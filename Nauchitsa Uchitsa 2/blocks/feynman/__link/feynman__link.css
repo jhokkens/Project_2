@@ -1,0 +1,14 @@
+.feynman__link {
+  /* border: 3px solid #1c7742; */
+  position: absolute;
+  margin: 0;
+  top: 50%;
+  right: 48px;
+  text-decoration: none;
+  color: #2f80ed;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+  z-index: 5;
+}

@@ -1,0 +1,9 @@
+a {
+  transition-property: opacity;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-out;
+}
+
+a:hover {
+  opacity: 0.5;
+}
